@@ -1,0 +1,34 @@
+.main {
+    background-color: lightseagreen;
+    color: blue;
+    display: grid;
+}
+
+header {
+    text-align: center;
+    color: chartreuse;
+    font-size: 20px;
+}
+.main-content {
+    text-align: center;
+}
+.main-content img {
+    height: 30vh;
+    width: 40vh;
+}
+
+section {
+    background-color:darkslategray;
+    color: white;
+}
+
+#descriptions li {
+    color: magenta;
+}
+#descriptions h5 {
+    color: khaki;
+}
+
+h3 {
+    font-style: italic;
+}
